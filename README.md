@@ -1,2 +1,2 @@
-# simplefolio
-## For more info, visit https://github.com/cobidev/simplefolio
+# built with template simplefolio
+## For more info about simplefolio, visit https://github.com/cobidev/simplefolio
